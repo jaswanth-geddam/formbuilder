@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import Input from "./Input"
-import Output from './Picture'
+import Input from "./input"
+import Output from './picture'
 import { useDrop } from 'react-dnd'
 var arr = ["1", "2"]
 

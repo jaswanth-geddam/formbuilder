@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './app.css';
 import { useNavigate } from "react-router-dom";
 
 
